@@ -2,6 +2,9 @@
 A collection of YouTube video downloader applications built with Python and yt-dlp (formerly youtube-dl). These tools allow you to download high-quality YouTube videos through a simple graphical interface.
 
 
+<img width="625" height="284" alt="Image" src="https://github.com/user-attachments/assets/d9d6532b-1e40-489d-bece-367719d18717" />
+
+<img width="435" height="208" alt="Image" src="https://github.com/user-attachments/assets/135eb84e-7a30-45d0-ba49-99104dd22eb0" />
 
 
 ## Applications :
